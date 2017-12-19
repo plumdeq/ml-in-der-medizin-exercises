@@ -1,0 +1,5 @@
+*pyc
+*ipynb*check*
+__pycache__
+leftovers/*
+relu.py
