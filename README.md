@@ -16,6 +16,10 @@ narrative text. Since we are using Python we will be using Jupyter Python
 Notebooks (note that Jupyter Notebook exists for other programming languages as
 well).
 
+*If you want to prepare these exercises locally, make sure that you have access
+to a Unix-based machine (Linux, Mac OS X), and if yes, skip to the `Local
+environment preparation`.*
+
 [^1]: http://pytorch.org/
 [^2]: https://notebooks.azure.com/
 [^3]: http://jupyter.org/
@@ -26,7 +30,7 @@ tutorial[^4].
 
 [^4]: https://youtu.be/EEEZX_0FMEc
 
-## Environment preparation
+## Cloud environment preparation
 
 To use Microsoft's cloud platform all you need is a valid Microsoft account (in
 some cases even a Skype account might suffice). Head over to
@@ -62,6 +66,24 @@ will find the respective notebooks with python code and equations, which you
 can interactively run and explore.
 
 ![Exercise contents](./assets/images/azure-exercise-contents.png)
+
+
+## Local environment preparation
+
+Primary dependency of all these exercises is `pytorch`[^1] and
+`pytorch-vision`. Head over to the official installation instructions
+(Unix-based systems only). In addition, you will need to install a few other
+Python packages. Overall, to prepare your environment, provided your system
+supports `pytorch`, issuing the following commands should suffice. If you are
+inexperienced with Python package installations, and/or experiencing too many
+issues with installations, we suggest to opt for the cloud environment.
+
+```
+pip3 install click tqdm
+pip3 install numpy matplotlib
+pip3 install http://download.pytorch.org/whl/cu80/torch-0.3.0.post4-cp35-cp35m-linux_x86_64.whl
+pip3 install torchvision
+```
 
 ## Running exercises
 
