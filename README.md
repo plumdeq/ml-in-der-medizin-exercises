@@ -39,6 +39,11 @@ Microsoft account), just as indicated in the image below.
 
 ![Microsoft Azure sign in page](./assets/images/azure-signin.png){width=100%}
 
+### Clone repository from GitHub (preferred)
+
+*If cloning from GirHub is not possible, clone the repository from Microsoft
+Azure Libraries (next section)*
+
 Next, you need to clone the Python code which you will use for the exercises,
 use the following image in conjunction with the numbered instructions below:
 
@@ -68,6 +73,19 @@ can interactively run and explore.
 ![Exercise contents](./assets/images/azure-exercise-contents.png)
 
 
+## Clone from Microsoft Azure Notebooks Libraries
+
+After having successfully signed in to your Microsoft Azure Notebooks account,
+clone the repository hosted on Azure cloud. To do so, head over to
+`https://notebooks.azure.com/plumdeq/libraries/ml-in-der-medizin-exercises`
+(personal libraries of Asan Agibetov) and click on `Clone` to replicate the
+library in your own libraries collections. Use the image below for guidelines,
+consult naming conventions described in the section `Clone from GitHub`.
+
+
+![Clone library in Microsoft Azure from Azure cloud](./assets/images/azure-clone-no-github.png){width=100%}
+
+
 ## Local environment preparation
 
 Primary dependency of all these exercises is `pytorch`[^1] and
@@ -79,10 +97,7 @@ inexperienced with Python package installations, and/or experiencing too many
 issues with installations, we suggest to opt for the cloud environment.
 
 ```
-pip3 install click tqdm
-pip3 install numpy matplotlib
-pip3 install http://download.pytorch.org/whl/cu80/torch-0.3.0.post4-cp35-cp35m-linux_x86_64.whl
-pip3 install torchvision
+pip3 install tqdm numpy matplotlib
 ```
 
 ## Running exercises
