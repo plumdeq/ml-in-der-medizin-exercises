@@ -1,5 +1,7 @@
 # Graded practical exercise on Deep Learning
 
+**LAST UPDATE: Fri 29 Dec 2017 11:15:39 AM CET**
+
 Practical exercises for the "Deep Learning" lecture (given by me jointly with
 Prof. Georg Dorffner) of the "Machine Learning in der Medizin" course unit at
 the Medical University of Vienna.
