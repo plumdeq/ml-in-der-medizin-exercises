@@ -1,6 +1,16 @@
 # Graded practical exercise on Deep Learning
 
-**LAST UPDATE: Fri 29 Dec 2017 11:15:39 AM CET**
+## Updates
+
+**LATEST UPDATE: Wed Jan 17 10:01:48 2018 AM CET**
+
+* **Wed Jan 17 10:01:48 2018 AM CET**
+    * Corrected error in Exercise 2.1 (thanks Niklas). To remedy the issue, now
+      contains a hint on the solution.
+* **Fri 29 Dec 2017 11:15:39 AM CET**
+    * Corrected errors in `exercise 1` (many corrections in the whole notebook)
+
+## Description
 
 Practical exercises for the "Deep Learning" lecture (given by me jointly with
 Prof. Georg Dorffner) of the "Machine Learning in der Medizin" course unit at
