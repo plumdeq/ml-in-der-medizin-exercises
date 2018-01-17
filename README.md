@@ -2,11 +2,11 @@
 
 ## Updates
 
-**LATEST UPDATE: Wed Jan 17 10:01:48 2018 AM CET**
+**LATEST UPDATE: Wed Jan 17 15:06:41 2018 AM CET**
 
-* **Wed Jan 17 10:01:48 2018 AM CET**
-    * Corrected error in Exercise 2.1 (thanks Niklas). To remedy the issue, now
-      contains a hint on the solution.
+* **Wed Jan 17 15:06:41 2018 AM CET**
+    * Corrected typo in Exercise 2.1 (thanks Niklas). To remedy the issue, now
+      contains a hint on the solution (also a hint for the next exercise).
 * **Fri 29 Dec 2017 11:15:39 AM CET**
     * Corrected errors in `exercise 1` (many corrections in the whole notebook)
 
