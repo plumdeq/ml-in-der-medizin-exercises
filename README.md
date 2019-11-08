@@ -1,16 +1,10 @@
 # Graded practical exercise on Deep Learning
 
-## Updates
-
-**LATEST UPDATE: Wed Jan 17 15:06:41 2018 AM CET**
-
-* **Wed Jan 17 15:06:41 2018 AM CET**
-    * Corrected typo in Exercise 2.1 (thanks Niklas). To remedy the issue, now
-      contains a hint on the solution (also a hint for the next exercise).
-* **Fri 29 Dec 2017 11:15:39 AM CET**
-    * Corrected errors in `exercise 1` (many corrections in the whole notebook)
+# You only need to hand in exercise-2
 
 ## Description
+
+**You only need to hand in exercise-2** 
 
 Practical exercises for the "Deep Learning" lecture (given by me jointly with
 Prof. Georg Dorffner) of the "Machine Learning in der Medizin" course unit at
@@ -82,6 +76,8 @@ Namely, you will have four folders `exercise-0`,
 will find the respective notebooks with python code and equations, which you
 can interactively run and explore.
 
+**You only need to hand in exercise-2** 
+
 ![Exercise contents](./assets/images/azure-exercise-contents.png)
 
 
@@ -144,6 +140,8 @@ with text.
 
 ## Handing in your answers
 
+**You only need to hand in exercise-2** 
+
 The beauty of Jupyter notebooks is that they can be exchanged online with all
 of the execution results saved within them. Thus, you could hand-in your
 notebooks directly. Alternatively, you could make a report by including the
@@ -156,4 +154,3 @@ Contact your instructors via email in case of issues or if something is
 unclear
 
 * `asan.agibetov@meduniwien.ac.at`  
-* `georg.dorffner@meduniwien.ac.at`
